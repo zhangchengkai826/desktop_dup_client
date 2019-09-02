@@ -27,9 +27,6 @@
     <ClInclude Include="tsf.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="WinDesktopDup.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="windup.h">
       <Filter>Header Files</Filter>
     </ClInclude>
@@ -47,9 +44,6 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="tsf.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="WinDesktopDup.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="windup.cpp">
